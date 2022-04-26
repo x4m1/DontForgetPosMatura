@@ -1,4 +1,4 @@
-# Do not forget this things!!!
+# Do not forget these things!!!
 
 Dies ist eine Liste die Dinge beinhaltet, die man während der POS Matura nicht vergessen darf. 
 Sonst: Gott behüte dich.
