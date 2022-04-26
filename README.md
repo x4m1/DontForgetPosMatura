@@ -12,7 +12,7 @@ nicht vergessen!
 Beispiele:
 
 Wert hinzufügen:
-```
+```csharp
 //in einer Methode
 {
     //neues Packet wird hinzugefügt
@@ -27,7 +27,7 @@ Wert hinzufügen:
 ```
 
 Wert updaten:
-```
+```csharp
 //in einer Methode
 {
     //Menge wird geändert (Eigenverbrauch)
@@ -48,7 +48,7 @@ Wenn man in einer RazorPage oder im Model eine Liste haben will sollte man diese
 
 Beispiele:
 
-```
+```csharp
 public class Laufhaus{
 
     //Liste mit "new()" initialisieren
